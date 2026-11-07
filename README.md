@@ -4,7 +4,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Cybersecurity professional with CompTIA CySA+, Security+, and Cisco CCNA certifications seeking a SOC Analyst opportunity. Experienced in hands-on security labs involving threat detection, packet analysis, penetration testing, and SIEM monitoring using Splunk and Wazuh. Passionate about identifying threats, analyzing security events, and supporting incident response efforts.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
